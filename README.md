@@ -1,16 +1,25 @@
-# text_behind_image
+# Mobio Demo Task - Trxt Behind Image
 
-A new Flutter project.
+This repository contains a demo project created as part of a task provided by **Mobio Company**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Task Description
+- A static image will be shown as the background.  
+- The user can enter custom text input.  
+- After adding text, the user can pick an image from the gallery.  
+- The background of the selected image will be removed.  
+- The processed image will then be overlapped on top of the text view.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📚 Libraries Used
+- [`image_picker: ^1.1.2`](https://pub.dev/packages/image_picker) – for picking images from the device gallery.  
+- [`background_remover: ^0.0.3`](https://pub.dev/packages/background_remover) – for removing the background of the selected image.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/<repo-name>.git
