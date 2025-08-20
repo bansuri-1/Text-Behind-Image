@@ -1,4 +1,4 @@
-# Mobio Demo Task - Trxt Behind Image
+# Mobio Demo Task - Trext Behind Image
 
 This repository contains a demo project created as part of a task provided by **Mobio Company**.
 
